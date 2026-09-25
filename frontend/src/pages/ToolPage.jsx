@@ -117,7 +117,7 @@ export default function ToolPage() {
         }
       }
 
-      const res = await fetch('/api/remove', {
+      const res = await fetch('https://clear-cut-6h8t.onrender.com/remove', {
         method: 'POST',
         body: form,
       })
