@@ -2,7 +2,12 @@
 
 ClearCut is a professional, lightning-fast web application that leverages cutting-edge AI to remove image backgrounds instantly. Built with a modern **React (Vite)** frontend and a powerful **FastAPI** backend, it provides a seamless SaaS-like experience directly on your local machine.
 
-![ClearCut Preview](frontend/public/vite.svg) <!-- Update this path if you add a real screenshot -->
+![ClearCut Preview](frontend/public/vite.svg)
+
+## 🌐 Live Demo
+
+- **Frontend Application**: [https://clear-cut-lpzf.vercel.app/](https://clear-cut-lpzf.vercel.app/)
+- **Backend API**: `https://clear-cut-6h8t.onrender.com`
 
 ## 🌟 Features
 
