@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart
+rembg>=2.0.62
+onnxruntime; sys_platform == 'win32'
+onnxruntime-gpu; sys_platform != 'win32'
+Pillow==10.4.0
+
